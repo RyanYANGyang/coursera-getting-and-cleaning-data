@@ -13,6 +13,7 @@ The same holds for the training set.
 # About the script and the tidy dataset
 
 I should submit:
+
 1. a tidy data set as described below
  
 2. a link to a Github repository with your script for performing the analysis, and
