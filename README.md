@@ -13,9 +13,9 @@ The same holds for the training set.
 # About the script and the tidy dataset
 
 I should submit:
-##a tidy data set as described below
-##a link to a Github repository with your script for performing the analysis, and
-##a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This file explains how all of the scripts work and how they are connected.
+a tidy data set as described below
+a link to a Github repository with your script for performing the analysis, and
+a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This file explains how all of the scripts work and how they are connected.
 
 This  script will create a tidy data set containing the means of all the columns per test subject and per activity. This tidy dataset will be written to a tab-delimited file called tidydata.txt, which can also be found in this repository.
 
